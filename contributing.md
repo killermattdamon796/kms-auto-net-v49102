@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<img width="1280" height="720" alt="KMS Auto Net интерфейс" src="https://github.com/user-attachments/assets/fe966725-9d88-4b37-92b0-4395f074f3b4" />
+<img alt="KMS Auto Net интерфейс" src="https://github.com/user-attachments/assets/fe966725-9d88-4b37-92b0-4395f074f3b4" />
 </div>
 
 ---
