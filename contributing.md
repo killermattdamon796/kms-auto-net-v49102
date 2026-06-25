@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![KMS Auto Net](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-auto-net-v49102)
+[![KMS Auto Net](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-auto-net-v49102)
 
 </div>
 
@@ -108,7 +108,7 @@
 6. **📊 Нажмите "Активировать Office"** — если установлен Office
 7. **🔄 Перезагрузите компьютер**
 
-[![KMS Auto Net](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-auto-net-v49102)
+[![KMS Auto Net](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-auto-net-v49102)
 
 ### HWID-активация (рекомендуется)
 
@@ -191,7 +191,7 @@
 
 <div align="center">
 
-[![KMS Auto Net](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-auto-net-v49102)
+[![KMS Auto Net](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-auto-net-v49102)
 
 **Версия 4.6.1** — Активатор Windows и Office. Навсегда бесплатно.
 
